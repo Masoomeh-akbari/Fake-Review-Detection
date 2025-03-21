@@ -4,7 +4,8 @@ This project explores the growing issue of fake online reviews and investigates 
 
 Based on our findings, we propose a novel **hybrid deep learning architecture** that combines the strengths of multiple models to improve detection accuracy, robustness, and adaptability. While this is a theoretical study, the proposed design aims to guide future development and research in fake review detection.
 
-For full details, see our report: **[Fake Review Detection](./Fake%20Review%20Detection.pdf)**
+For full details, see our report: **[Fake Review Detection](./Fake-Review-Detection.pdf)**
+
 
 ## 📌 Key Highlights
 
